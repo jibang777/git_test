@@ -1,2 +1,2 @@
 Hello World!
-This is my git test file.
+This is my git test file and my first time trying to use git, text editor as a snowball developer.
